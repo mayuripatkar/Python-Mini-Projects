@@ -1,4 +1,4 @@
-# Python-Mini-Projects :panda_face:
+# Python-Mini-Projects :sparkles: :dizzy:
 #### Python is one of the most popular programming languages currently. It looks like this trend is about to continue in 2020 and beyond. 
 Here are few python project ideas -> https://www.upgrad.com/blog/python-projects-ideas-topics-beginners/
 
