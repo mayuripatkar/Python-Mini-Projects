@@ -4,11 +4,11 @@ Here are few python project ideas -> https://www.upgrad.com/blog/python-projects
 
 ##### The repository consists of few projects from the list:-
 1. Mad Libs Generator
-2. Number Guessing
-3. Dice Game
-4. Email Slicer
+2. Number Guessing:mag:
+3. Dice Game :dice:
+4. Email Slicer:e-mail:
 5. Word Guessing Game
-6. Stone, Paper, Scissors
+6. Stone, :page_facing_up:Paper, Scissors:scissors:
 7. Leap it!
 8. Fibonacci!
 
