@@ -3,7 +3,7 @@ import random
 
 root = Tk()
 root.geometry("900x350")
-root.title("Roll Dice")
+root.title("Roll Dicesss")
 
 l1 = Label(root,text='',font =("times",200))
 
