@@ -1,5 +1,5 @@
 import random
-name = input("What's your name:")
+name = input("What is your name:")
 
 companies = ['Facebook','Apple','Netflix','Google','Amazon','Microsoft','Adobe']
 company = random.choice(companies)
