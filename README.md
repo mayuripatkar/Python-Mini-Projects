@@ -9,7 +9,7 @@ Here are few python project ideas -> https://www.upgrad.com/blog/python-projects
 4. Email Slicer:e-mail:
 5. Word Guessing Game
 6. Stone, :page_facing_up:Paper, Scissors:scissors:
-7. Leap it!
+7. Leap it!!
 8. Fibonacci!
 
 ##### Steps:-
